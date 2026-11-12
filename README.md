@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="pepe-hacker-hacker-man.gif" width="500" />
+  <img src="pepe-hacker-hacker-man.gif" width="200" />
 </div>
 ![snake gif](https://github.com/trungvt1108/trungvt1108/blob/output/github-contribution-grid-snake-dark.svg)
 <h2 align="center">Contribution Snake</h2>
