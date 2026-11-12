@@ -1,19 +1,54 @@
-# trungvtt1108
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Vu%20Thanh%20Trung&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
+# Vu Thanh Trung
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hello+World!;Cybersecurity+Student;Welcome+to+my+GitHub!" />
+### Information Security Student @ UEH
 
-  <h3>🛡️ Cybersecurity | 💻 Developer</h3>
+Cybersecurity · Penetration Testing · Security Automation
 
-  <h3>🛠️ Tech Stack</h3>
-
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker&theme=dark" />
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/trungvtt1108)
 
 </div>
 
+---
+
+## About Me
+
+I'm a third-year Information Security student at the University of Economics Ho Chi Minh City (UEH).
+
+I'm interested in cybersecurity, web application security, and building practical tools to understand and address security vulnerabilities.
+
+- Focus: Cybersecurity & Vulnerability Assessment
+- Interests: Web Security, Penetration Testing, Security Automation
+- Learning through hands-on projects and security labs
+
+## Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,linux,bash,git,github,vscode&theme=dark" />
+</p>
+
+## Featured Projects
+
+**[Web Security Testing for Pentest](https://github.com/trungvtt1108/web-test-vulnerability-for-pentest)**
+
+Exploring web application security testing and vulnerability assessment.
+
+**[Personal Cyber Lab](https://github.com/trungvtt1108/Personal-cyber-lab)**
+
+A personal environment for hands-on cybersecurity learning and experimentation.
+
+**[Automated Vulnerability Scanner](https://github.com/trungvtt1108/Automated-Vulnerability-Scanner)**
+
+Exploring automated vulnerability detection and security scanning techniques.
+
+## Connect
+
+- GitHub: [@trungvtt1108](https://github.com/trungvtt1108)
+
+---
+
 <div align="center">
-  <img src="pepe-hacker-hacker-man.gif" width="500" />
+  <sub>Always learning. Always improving.</sub>
 </div>
